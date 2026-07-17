@@ -1,5 +1,11 @@
 # CyberVisionaries Institute (CVI) — Cyber Foundations Student Portfolio
 
+My name is Dominique Fleming and I am a passionate, excitable and driven career woman. I have many loves in life and I now have taken the interest and drive towards a career in the cybersecurity/cloud field.
+
+I signed up for the CyberVisions Institute because I saw the value, the care and purpose in the leaders of this program when they answered questions and spoke about this program. It made me feel like I would be in good hands and have access to great minds to spur my path forward.
+
+I hope to find a more secure and stable career, allow me to have peace of mind in my field and use my skills to help non-profits that benefir the Type 1 diabetes community.
+
 **New here? Read [START-HERE.md](START-HERE.md) first — it walks you through your very first commit, step by step.**
 
 This repository documents your hands-on learning through the **CyberVisionaries Institute Cyber Foundations (Tier I)** program.
