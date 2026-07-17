@@ -4,7 +4,7 @@ My name is Dominique Fleming and I am a passionate, excitable and driven career 
 
 I signed up for the CyberVisions Institute because I saw the value, the care and purpose in the leaders of this program when they answered questions and spoke about this program. It made me feel like I would be in good hands and have access to great minds to spur my path forward.
 
-I hope to find a more secure and stable career, allow me to have peace of mind in my field and use my skills to help non-profits that benefir the Type 1 diabetes community.
+I hope to find a more secure and stable career, allow me to have peace of mind in my field and use my skills to help non-profits that benefit the Type 1 diabetes community.
 
 **New here? Read [START-HERE.md](START-HERE.md) first — it walks you through your very first commit, step by step.**
 
