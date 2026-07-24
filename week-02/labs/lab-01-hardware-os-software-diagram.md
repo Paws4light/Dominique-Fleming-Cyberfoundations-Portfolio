@@ -98,11 +98,10 @@ This step happens directly on GitHub, not through this worksheet — there's no 
 4. Click on the uploaded image to open it, then click the **Raw** button. Copy the URL from your browser's address bar.
 5. After you submit this worksheet, it will be committed to your repo. Go back to GitHub, open the committed file, click the pencil (edit) icon, and paste your raw URL into the embed line below:
 
-```markdown
-![Hardware/OS/software diagram](paste your raw image URL here)
-```
+Markdown
 
 **My Diagram** (added directly on GitHub after you submit):
+![Hardware/OS/Software diagram](https://raw.githubusercontent.com/Paws4light/Dominique-Fleming-Cyberfoundations-Portfolio/main/assets/screenshots/week-02/hardware-os-software-diagram.jpeg)
 
 ### Step 4 — Explain Your Diagram
 
